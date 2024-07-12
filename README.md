@@ -69,7 +69,7 @@ The main application, built with FastAPI, provides endpoints for bucket and obje
 
 ### Mirroring
 
-The system includes a robust mirroring feature, enabling admins to move data across different regions. This functionality ensures data availability and redundancy by allowing data to be replicated between MinIO clusters in different geographical locations. This enhances disaster recovery capabilities and optimizes access speeds for users across various regions.
+The system includes a robust mirroring feature, enabling admins to move data across different regions upon users' demand. This functionality ensures data availability and redundancy by allowing data to be replicated between MinIO clusters in different geographical locations. This enhances disaster recovery capabilities and optimizes access speeds for users across various regions.
 
 ## Use Cases
 
