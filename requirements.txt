@@ -1,0 +1,8 @@
+upstash_redis
+minio
+fastapi
+bcrypt==4.0.1
+passlib[bcrypt]
+nanoid
+python-multipart
+httpx[http2]
