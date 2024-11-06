@@ -10,5 +10,5 @@ In the era of big data, efficient and scalable storage solutions are paramount. 
 
 ### High Performance and Low Latency
 
-By leveraging Redis as an in-memory data structure store, our system provides rapid access to frequently used data, significantly reducing latency and improving performance.
+By leveraging Redis as an in-memory data structure store, our system provides rapid access to frequently used data, significantly reducing latency and improving performance.  
 The proxy layer ensures that less frequently accessed data is seamlessly offloaded to MinIO, maintaining an optimal balance between speed and storage capacity.
